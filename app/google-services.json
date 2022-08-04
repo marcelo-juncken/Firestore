@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "312616866793",
+    "project_id": "firestoreapp-64ced",
+    "storage_bucket": "firestoreapp-64ced.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312616866793:android:cf1fd7d1d45b22efe0b178",
+        "android_client_info": {
+          "package_name": "com.cdj.firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312616866793-b2uu15pqloa06qc7rpn0joamvo9ilu0i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cdj.firestore",
+            "certificate_hash": "fc05ba1bd475b2e4591227172156c06ff4618aa1"
+          }
+        },
+        {
+          "client_id": "312616866793-s0080sdrv18njf95409i7jod1f69t5ku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpN1IKI9AUlObW9TMpGdjjkKEQbOCm9Kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312616866793-s0080sdrv18njf95409i7jod1f69t5ku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
